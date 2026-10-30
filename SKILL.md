@@ -4,6 +4,7 @@ description: >
   Rigorous peer review for engineering experimental manuscripts.
   Audits experimental design, measurement, uncertainty, data analysis,
   reproducibility, physical interpretation, and claim–evidence consistency.
+  中文触发：实验论文审稿、实验设计核查、测量不确定度；English triggers: experimental manuscript review, uncertainty audit.
 ---
 
 # Engineering Experiment Reviewer
@@ -447,3 +448,8 @@ Do not request additional experiments merely because they would be interesting.
 Do not rewrite the manuscript unless explicitly requested.
 
 Prioritise problems most likely to affect publication-level scientific credibility.
+
+## Optional v3 research-group interface
+
+This Skill remains independently usable. When the user requests cross-Skill work or a located finding genuinely needs another specialist, read `references/research-group-interop-v3.md` on demand. Own **Experimental methodology, measurement uncertainty and repeatability**; do not silently take over **General scientific acceptance decisions or manuscript language editing**. Never pretend a named tool or Skill was invoked. Reuse evidence with source/version, keep one issue owner, and return a short handoff record rather than a duplicate full audit.
+
